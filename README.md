@@ -1,6 +1,5 @@
 # GitHub User Viewer
 
-![GitHub User Viewer Logo](./images/logo.png)
 
 GitHub User Viewer is a web application that allows you to search for and view GitHub users and their profiles. It utilizes the Axis library to create interactive and responsive user interfaces.
 
